@@ -1,2 +1,4 @@
-mkdocs-material>=9.5.38
+mkdocs>2.0
+mkdocs-glightbox>=0.5.2
+mkdocs-material>=9.6.22
 mkdocs-static-i18n>=1.2.3
