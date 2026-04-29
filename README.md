@@ -1,6 +1,34 @@
-# KTH Data Repository Documentation
+# KTH Digital Research Handbook
 
-This repository contains the documentation for the KTH Data Repository. The documentation is available in both English and Swedish.
+This repository contains the content for the KTH Digital Research Handbook website.
+
+The handbook is maintained in two languages:
+
+- English: `docs/en/`
+- Swedish: `docs/sv/`
+
+## Before you start
+
+- If you only want to edit text, you can do everything directly in GitHub (no local setup needed).
+- If you want to preview changes on your computer, follow the local setup section below.
+
+## Easiest way to contribute (no local setup)
+
+1. Open this repository on GitHub.
+2. Go to the page you want to change in `docs/en/` or `docs/sv/`.
+3. Click the pencil icon (Edit this file).
+4. Make your changes.
+5. Scroll down and choose "Create a new branch".
+6. Click "Propose changes".
+7. Open a pull request.
+
+## Where files are
+
+- `docs/`: all handbook pages and images.
+- `docs/en/`: English pages.
+- `docs/sv/`: Swedish pages.
+- `mkdocs.yml`: website menu/navigation.
+- `site/`: generated website files. Do not edit this folder manually.
 
 ## Adding Documentation Files
 
@@ -35,34 +63,39 @@ plugins:
         - Användning: usage.md
 ```
 
-This example add new `usage` page document to both the English and Swedish navigation sections in the mkdocs.yml configuration file.
+## Local development
 
-## Building and Deploying
+Use this only if you want to preview the site locally.
 
-This project uses GitHub Actions for continuous integration and deployment. The configuration is defined in .github/workflows/ci.yaml.
+Requirements:
 
-When you push changes to the main branch, GitHub Actions will build and deploy the documentation to GitHub Pages you need to wait a few minutes for the changes to be reflected on the website.
+- Python 3.12+
+- `uv`
 
-## Local Development
+Install `uv`:
+<https://docs.astral.sh/uv/getting-started/installation/>
 
-To manually build and serve the documentation locally:
-Make sure you have uv installed on your machine. If you don't have it installed, 
-follow the instructions in the [uv installation](https://docs.astral.sh/uv/getting-started/installation/).
+Install project dependencies:
 
 ```bash
 make install
+```
 
+Start local preview:
+
+```bash
 make serve
 ```
 
-If you prefer to use `mkdocs` directly, create a venv and install the required packages:
+Open: `http://127.0.0.1:8000`
+
+## Build the site
+
+Create static output in `site/`:
 
 ```bash
-pip install -r requirement.txt
-mkdocs serve
+uv run mkdocs build
 ```
-
-Whenever you make changes, commit them to the main branch. GitHub Actions will automatically build and deploy the changes to GitHub Pages.
 
 ## Contributing
 
@@ -70,7 +103,7 @@ If you spot a typo, error, or want to add more information, feel free to contrib
 
 You can either open an issue or submit a pull request.
 
-Here's how you can fork, edit, and submit a pull request. While there are multiple ways to do this, we'll guide you through the easiest method using[GitHub Codespaces](https://github.com/features/codespaces).
+Here's how you can fork, edit, and submit a pull request. While there are multiple ways to do this, we'll guide you through the easiest method using [GitHub Codespaces](https://github.com/features/codespaces).
 
 Steps to follow:
 
@@ -84,3 +117,7 @@ Steps to follow:
 - Push the changes to your fork.
 - Submit a pull request.
 - Wait for your pull request to be reviewed and merged.
+
+## Deployment
+
+The site is deployed through GitHub Actions to GitHub Pages. After changes are merged, publishing is automatic.
