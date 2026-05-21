@@ -115,11 +115,12 @@ plugins:
                 - Krav från finansiärer: knowledge_base/funder-mandates.md
                 - Krav från förlag: knowledge_base/publisher-requirements.md
             - Om:
+                - Kontakta oss: about/contact-us.md
                 - Användarvillkor: about/terms.md
                 - Cookiepolicy: about/cookie-policy.md
 
 nav:
-  # When updating the nav, remember to update the i18n plugin nav as well
+  # When updating the nav, remember to update the Swedish nav (above) as well
   # The top-level items are shown in the site header (this is *not* the table of contents)
   - Home: index.md
   - How to:
@@ -148,5 +149,6 @@ nav:
       - Funder mandates: knowledge_base/funder-mandates.md
       - Publisher requirements: knowledge_base/publisher-requirements.md
   - About:
-      - Terms of Use: about/terms.md
-      - Cookies Policy: about/cookie-policy.md
+      - Contact us: about/contact-us.md
+      - Terms of use: about/terms.md
+      - Cookie policy: about/cookie-policy.md

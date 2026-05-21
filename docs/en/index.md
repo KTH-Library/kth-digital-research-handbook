@@ -1,7 +1,7 @@
 # <!-- markdownlint-disable MD007 -->
 
-!!! warning "Site Under Construction"
-    This site is under construction.
+!!! warning "Site under construction"
+    This site is a work in progress. Found a mistake? Please [let us know](about/contact-us.md)!
 
 <!-- NOTE
 Each item in the list (inside the div) below gets an entry in the main TOC, but so does
@@ -42,9 +42,9 @@ The TOC appear to rest on shaky foundations...
     - [Funder mandates](knowledge_base/funder-mandates.md)
     - [Publisher requirements](knowledge_base/publisher-requirements.md)
 - ## About
+    - [Contact us](about/contact-us.md)
     - [Terms of use](about/terms.md)
     - [Cookie policy](about/cookie-policy.md)
-    - [Contact us](https://www.kth.se/om/fakta)
 </div>
 
 ---

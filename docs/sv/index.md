@@ -1,8 +1,8 @@
 
 # <!-- markdownlint-disable MD007 -->
 
-!!! warning "Webbplats under uppbyggnad"
-    Denna webbplats är under uppbyggnad.
+!!! warning "Webbplatsen är under uppbyggnad"
+    Arbete pågår! Tveka inte [att höra av dig](about/contact-us.md) om du hittat ett misstag.
 
 ## Guide till goda digitala forskningsmetoder vid KTH v0.1
 
@@ -43,9 +43,10 @@
 
 - ## Om
 
+    - [Kontakta oss](about/contact-us.md)
     - [Användarvillkor](about/terms.md)
     - [Cookiepolicy](about/cookie-policy.md)
-    - [Kontakta oss](https://www.kth.se/om/fakta)
+
 
 </div>
 
