@@ -4,7 +4,7 @@
 !!! warning "Webbplats under uppbyggnad"
     Denna webbplats är under uppbyggnad.
 
-## Guide till goda digitala forskningsmetoder vid KTH v 0.1
+## Guide till goda digitala forskningsmetoder vid KTH v0.1
 
 <div class="grid cards" markdown>
 
@@ -15,7 +15,7 @@
 
 - ## Hur gör jag för att
 
-    - [Bidra till denna handbok](how_to_guides/contribute.md)  
+    - [Bidra till denna handbok](how_to_guides/contribute.md)
     - [komma åt resurser inom EOSC](how_to_guides/EOSC_Jupyter.md)
 
 - ## Arbeta med data

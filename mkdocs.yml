@@ -16,21 +16,21 @@ theme:
     - navigation.tabs
 
   palette:
+    # dark theme
     - scheme: slate
       primary: custom
-    # dark theme
+      accent: pink
       toggle:
         icon: material/brightness-7
         name: Dark mode
-      accent: pink
 
     # light theme
     - scheme: default
+      primary: custom
+      accent: pink
       toggle:
         icon: material/brightness-4
         name: Light mode
-      primary: custom
-      accent: pink
 
 # https://squidfunk.github.io/mkdocs-material/reference/code-blocks/?h=code#configuration
 markdown_extensions:
@@ -120,6 +120,7 @@ plugins:
 
 nav:
   # When updating the nav, remember to update the i18n plugin nav as well
+  # The top-level items are shown in the site header (this is *not* the table of contents)
   - Home: index.md
   - How to:
       - Access Jupyter notebook at EOSC EU node: how_to_guides/EOSC_Jupyter.md
