@@ -137,6 +137,9 @@ venv.bak/
 # Rope project settings
 .ropeproject
 
+# VSCodium workspaces
+*.code-workspace
+
 # mkdocs documentation
 /site
 
