@@ -3,7 +3,13 @@
 !!! warning "Site Under Construction"
     This site is under construction.
 
-## Guide to good digital research practices at KTH v 0.1
+<!-- NOTE
+Each item in the list (inside the div) below gets an entry in the main TOC, but so does
+the 2nd-level header outside it, but not if we change any of them to first-level headers!
+The TOC appear to rest on shaky foundations...
+-->
+
+## Guide to good digital research practices at KTH v0.1
 
 <div class="grid cards" markdown>
 
@@ -11,10 +17,9 @@
     - [Introduction](introduction/intro.md)
     - [Target audience](introduction/audience.md)
 
-- ## How to 
+- ## How to
     - [Contribute to this handbook](how_to_guides/contribute.md)
     - [Access Jupyter notebooks at EOSC EU node](how_to_guides/EOSC_Jupyter.md)
-   
 
 - ## Work with data in research
     - [From plan to publish](methodologies/research-data-lifecycle.md)
