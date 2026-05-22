@@ -1,8 +1,11 @@
 site_name: KTH Digital Research Handbook v0.1
-site_url: https://kth-library.github.io/kth-digital-research-handbook
+# it does not matter that this hostname does not match the staging server, but
+# please do not set a path (the part after the slash) because that seems to
+# break the staging site's Swedish pages (but not the English, curiously)
+site_url: https://kth-library.github.io
 repo_url: https://github.com/KTH-Library/kth-digital-research-handbook
 repo_name: KTH digital research handbook
-copyright: '© 2025 KTH Royal Institute of Technology'
+copyright: '© 2026 KTH Royal Institute of Technology'
 
 extra_css:
   - stylesheets/extra.css

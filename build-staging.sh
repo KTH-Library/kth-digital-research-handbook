@@ -7,9 +7,6 @@
 # I don't see the need for traps, so I skipped -E
 set -euo pipefail
 
-# working directory of this script
-work_dir=$(cd "$(dirname "${BASH_SOURCE[0]}")" &>/dev/null && pwd -P)
-
 usage() {
    cat <<EOF
 Usage: $(basename "${BASH_SOURCE[0]}") [-h/--help] [-v/--verbose]
