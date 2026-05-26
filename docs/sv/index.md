@@ -15,7 +15,7 @@
 
 - ## Hur gör jag för att
 
-    - [Bidra till denna handbok](how_to_guides/contribute.md)
+    - [Bidra till denna arbetsyta](how_to_guides/contribute.md)
     - [komma åt resurser inom EOSC](how_to_guides/EOSC_Jupyter.md)
 
 - ## Arbeta med data
@@ -44,7 +44,6 @@
 - ## Om
 
     - [Kontakta oss](about/contact-us.md)
-    - [Användarvillkor](about/terms.md)
     - [Cookiepolicy](about/cookie-policy.md)
 
 
@@ -52,4 +51,4 @@
 
 ---
 
-Hittade du inte svaret på din fråga? Kontakta oss på [researchdata@kth.se](mailto:researchdata@kth.se).
+Hittade du inte svaret på din fråga? Kontakta oss på [datahub-info@kth.se](mailto:datahub-info@kth.se).

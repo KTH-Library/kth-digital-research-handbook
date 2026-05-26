@@ -1,8 +1,8 @@
-# KTH Digital Research Handbook
+# Workspace KTH Digital Research Collaborative Hub
 
-This repository contains the content for the KTH Digital Research Handbook website.
+This repository contains the content for the Workspace KTH Digital Research Collaborative Hub.
 
-The handbook is maintained in two languages:
+The workspace is maintained in two languages:
 
 - English: `docs/en/`
 - Swedish: `docs/sv/`
@@ -24,7 +24,7 @@ The handbook is maintained in two languages:
 
 ## Where files are
 
-- `docs/`: all handbook pages and images.
+- `docs/`: all workspace pages and images.
 - `docs/en/`: English pages.
 - `docs/sv/`: Swedish pages.
 - `mkdocs.yml`: website menu/navigation.

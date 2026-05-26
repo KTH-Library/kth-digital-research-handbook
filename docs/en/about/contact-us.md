@@ -1,6 +1,6 @@
 # Contact
 
-Email [researchdata@kth.se](mailto:researchdata@kth.se) your contributions, questions, or suggestions!
+Email [datahub-info@kth.se](mailto:datahub-info@kth.se) your contributions, questions, or suggestions!
 
 <!--
 I created a Contact page because I would like to see it feature

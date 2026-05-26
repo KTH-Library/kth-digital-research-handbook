@@ -1,3 +1,3 @@
-## Så bidrar du till denna handbok
+## Så bidrar du till denna arbetsyta
 
 Kommer snart

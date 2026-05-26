@@ -18,7 +18,7 @@ The TOC appear to rest on shaky foundations...
     - [Target audience](introduction/audience.md)
 
 - ## How to
-    - [Contribute to this handbook](how_to_guides/contribute.md)
+    - [Contribute to this workspace](how_to_guides/contribute.md)
     - [Access Jupyter notebooks at EOSC EU node](how_to_guides/EOSC_Jupyter.md)
 
 - ## Work with data in research
@@ -43,10 +43,9 @@ The TOC appear to rest on shaky foundations...
     - [Publisher requirements](knowledge_base/publisher-requirements.md)
 - ## About
     - [Contact us](about/contact-us.md)
-    - [Terms of use](about/terms.md)
     - [Cookie policy](about/cookie-policy.md)
 </div>
 
 ---
 
-Couldn't find the answer to your question? Email [researchdata@kth.se](mailto:researchdata@kth.se).
+Couldn't find the answer to your question? Email [datahub-info@kth.se](mailto:datahub-info@kth.se).
