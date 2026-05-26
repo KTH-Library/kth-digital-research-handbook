@@ -137,6 +137,9 @@ venv.bak/
 # Rope project settings
 .ropeproject
 
+# VSCodium workspaces
+*.code-workspace
+
 # mkdocs documentation
 /site
 
@@ -162,3 +165,7 @@ cython_debug/
 #.idea/
 
 .DS_Store
+
+# Staging site
+# let's try to avoid leaking htpasswd even though its contents are hashed
+.htpasswd

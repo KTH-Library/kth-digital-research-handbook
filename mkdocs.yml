@@ -1,8 +1,11 @@
 site_name: KTH Digital Research Handbook v0.1
-site_url: https://kth-library.github.io/kth-digital-research-handbook
+# it does not matter that this hostname does not match the staging server, but
+# please do not set a path (the part after the slash) because that seems to
+# break the staging site's Swedish pages (but not the English, curiously)
+site_url: https://kth-library.github.io
 repo_url: https://github.com/KTH-Library/kth-digital-research-handbook
 repo_name: KTH digital research handbook
-copyright: '© 2025 KTH Royal Institute of Technology'
+copyright: '© 2026 KTH Royal Institute of Technology'
 
 extra_css:
   - stylesheets/extra.css
@@ -16,21 +19,21 @@ theme:
     - navigation.tabs
 
   palette:
+    # dark theme
     - scheme: slate
       primary: custom
-    # dark theme
+      accent: pink
       toggle:
         icon: material/brightness-7
         name: Dark mode
-      accent: pink
 
     # light theme
     - scheme: default
+      primary: custom
+      accent: pink
       toggle:
         icon: material/brightness-4
         name: Light mode
-      primary: custom
-      accent: pink
 
 # https://squidfunk.github.io/mkdocs-material/reference/code-blocks/?h=code#configuration
 markdown_extensions:
@@ -115,11 +118,13 @@ plugins:
                 - Krav från finansiärer: knowledge_base/funder-mandates.md
                 - Krav från förlag: knowledge_base/publisher-requirements.md
             - Om:
+                - Kontakta oss: about/contact-us.md
                 - Användarvillkor: about/terms.md
                 - Cookiepolicy: about/cookie-policy.md
 
 nav:
-  # When updating the nav, remember to update the i18n plugin nav as well
+  # When updating the nav, remember to update the Swedish nav (above) as well
+  # The top-level items are shown in the site header (this is *not* the table of contents)
   - Home: index.md
   - How to:
       - Access Jupyter notebook at EOSC EU node: how_to_guides/EOSC_Jupyter.md
@@ -147,5 +152,6 @@ nav:
       - Funder mandates: knowledge_base/funder-mandates.md
       - Publisher requirements: knowledge_base/publisher-requirements.md
   - About:
-      - Terms of Use: about/terms.md
-      - Cookies Policy: about/cookie-policy.md
+      - Contact us: about/contact-us.md
+      - Terms of use: about/terms.md
+      - Cookie policy: about/cookie-policy.md

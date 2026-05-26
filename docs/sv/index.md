@@ -1,10 +1,10 @@
 
 # <!-- markdownlint-disable MD007 -->
 
-!!! warning "Webbplats under uppbyggnad"
-    Denna webbplats är under uppbyggnad.
+!!! warning "Webbplatsen är under uppbyggnad"
+    Arbete pågår! Tveka inte [att höra av dig](about/contact-us.md) om du hittat ett misstag.
 
-## Guide till goda digitala forskningsmetoder vid KTH v 0.1
+## Guide till goda digitala forskningsmetoder vid KTH v0.1
 
 <div class="grid cards" markdown>
 
@@ -15,7 +15,7 @@
 
 - ## Hur gör jag för att
 
-    - [Bidra till denna handbok](how_to_guides/contribute.md)  
+    - [Bidra till denna handbok](how_to_guides/contribute.md)
     - [komma åt resurser inom EOSC](how_to_guides/EOSC_Jupyter.md)
 
 - ## Arbeta med data
@@ -43,9 +43,10 @@
 
 - ## Om
 
+    - [Kontakta oss](about/contact-us.md)
     - [Användarvillkor](about/terms.md)
     - [Cookiepolicy](about/cookie-policy.md)
-    - [Kontakta oss](https://www.kth.se/om/fakta)
+
 
 </div>
 
