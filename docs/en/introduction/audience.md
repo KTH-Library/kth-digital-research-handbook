@@ -1,4 +1,4 @@
-# What is the workspace intended for and for whom?
+# What is this workspace intended for and for whom?
 
 This workspace is intended as a guide for researchers and PhD students to assist
 when questions arise in your research when using some elements of "digital" in
