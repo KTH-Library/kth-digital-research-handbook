@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://kth-library.github.io/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/about/contact-us/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/about/contact-us/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/about/contact-us/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/about/cookie-policy/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/about/cookie-policy/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/about/cookie-policy/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/how_to_guides/EOSC_Jupyter/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/how_to_guides/EOSC_Jupyter/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/how_to_guides/EOSC_Jupyter/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/how_to_guides/contribute/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/how_to_guides/contribute/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/how_to_guides/contribute/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/introduction/audience/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/introduction/audience/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/introduction/audience/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/introduction/intro/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/introduction/intro/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/introduction/intro/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/knowledge_base/communities/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/knowledge_base/communities/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/knowledge_base/communities/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/knowledge_base/finding-data/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/knowledge_base/finding-data/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/knowledge_base/finding-data/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/knowledge_base/funder-mandates/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/knowledge_base/funder-mandates/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/knowledge_base/funder-mandates/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/knowledge_base/kth-support/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/knowledge_base/kth-support/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/knowledge_base/kth-support/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/knowledge_base/national/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/knowledge_base/national/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/knowledge_base/national/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/knowledge_base/publisher-requirements/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/knowledge_base/publisher-requirements/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/knowledge_base/publisher-requirements/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/knowledge_base/regulation/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/knowledge_base/regulation/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/knowledge_base/regulation/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/knowledge_base/storage/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/knowledge_base/storage/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/knowledge_base/storage/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/knowledge_base/tools/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/knowledge_base/tools/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/knowledge_base/tools/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/methodologies/confidential-data/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/methodologies/confidential-data/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/methodologies/confidential-data/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/methodologies/data-science/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/methodologies/data-science/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/methodologies/data-science/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/methodologies/large-projects/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/methodologies/large-projects/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/methodologies/large-projects/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/methodologies/openness/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/methodologies/openness/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/methodologies/openness/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/methodologies/qualitative-research/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/methodologies/qualitative-research/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/methodologies/qualitative-research/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/methodologies/quantitative-research/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/methodologies/quantitative-research/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/methodologies/quantitative-research/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/methodologies/research-data-lifecycle/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/methodologies/research-data-lifecycle/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/methodologies/research-data-lifecycle/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/methodologies/workflows/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/methodologies/workflows/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/methodologies/workflows/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/sv/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/sv/about/contact-us/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/about/contact-us/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/about/contact-us/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/sv/about/cookie-policy/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/about/cookie-policy/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/about/cookie-policy/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/sv/how_to_guides/EOSC_Jupyter/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/how_to_guides/EOSC_Jupyter/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/how_to_guides/EOSC_Jupyter/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/sv/how_to_guides/contribute/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/how_to_guides/contribute/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/how_to_guides/contribute/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/sv/introduction/audience/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/introduction/audience/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/introduction/audience/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/sv/introduction/intro/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/introduction/intro/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/introduction/intro/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/sv/knowledge_base/communities/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/knowledge_base/communities/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/knowledge_base/communities/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/sv/knowledge_base/finding-data/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/knowledge_base/finding-data/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/knowledge_base/finding-data/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/sv/knowledge_base/funder-mandates/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/knowledge_base/funder-mandates/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/knowledge_base/funder-mandates/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/sv/knowledge_base/kth-support/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/knowledge_base/kth-support/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/knowledge_base/kth-support/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/sv/knowledge_base/national/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/knowledge_base/national/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/knowledge_base/national/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/sv/knowledge_base/publisher-requirements/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/knowledge_base/publisher-requirements/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/knowledge_base/publisher-requirements/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/sv/knowledge_base/regulation/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/knowledge_base/regulation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/knowledge_base/regulation/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/sv/knowledge_base/storage/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/knowledge_base/storage/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/knowledge_base/storage/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/sv/knowledge_base/tools/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/knowledge_base/tools/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/knowledge_base/tools/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/sv/methodologies/confidential-data/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/methodologies/confidential-data/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/methodologies/confidential-data/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/sv/methodologies/data-science/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/methodologies/data-science/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/methodologies/data-science/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/sv/methodologies/large-projects/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/methodologies/large-projects/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/methodologies/large-projects/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/sv/methodologies/openness/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/methodologies/openness/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/methodologies/openness/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/sv/methodologies/qualitative-research/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/methodologies/qualitative-research/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/methodologies/qualitative-research/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/sv/methodologies/quantitative-research/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/methodologies/quantitative-research/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/methodologies/quantitative-research/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/sv/methodologies/research-data-lifecycle/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/methodologies/research-data-lifecycle/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/methodologies/research-data-lifecycle/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/sv/methodologies/workflows/</loc>
+        <lastmod>2026-05-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/sv/methodologies/workflows/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/methodologies/workflows/"/>
+    </url>
+</urlset>
