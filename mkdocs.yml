@@ -1,4 +1,4 @@
-site_name: KTH Digital Research Handbook v0.1
+site_name: Workspace KTH Digital Research Collaborative Hub v0.1
 # it does not matter that this hostname does not match the staging server, but
 # please do not set a path (the part after the slash) because that seems to
 # break the staging site's Swedish pages (but not the English, curiously)
@@ -94,7 +94,7 @@ plugins:
             - Hem: sv/index.md
             - Hur gör jag för att:
                 - Komma åt Jupyter vid EOSC EU-noden: how_to_guides/EOSC_Jupyter.md
-                - Bidra till denna handbok: how_to_guides/contribute.md
+                - Bidra till denna arbetsyta: how_to_guides/contribute.md
             - Introduktion:
                 - Introduktion: introduction/intro.md
                 - Målgrupp: introduction/audience.md
@@ -119,7 +119,6 @@ plugins:
                 - Krav från förlag: knowledge_base/publisher-requirements.md
             - Om:
                 - Kontakta oss: about/contact-us.md
-                - Användarvillkor: about/terms.md
                 - Cookiepolicy: about/cookie-policy.md
 
 nav:
@@ -128,7 +127,7 @@ nav:
   - Home: index.md
   - How to:
       - Access Jupyter notebook at EOSC EU node: how_to_guides/EOSC_Jupyter.md
-      - Contribute to this handbook: how_to_guides/contribute.md
+      - Contribute to this workspace: how_to_guides/contribute.md
   - Introduction:
       - Introduction: introduction/intro.md
       - Target audience: introduction/audience.md
@@ -153,5 +152,4 @@ nav:
       - Publisher requirements: knowledge_base/publisher-requirements.md
   - About:
       - Contact us: about/contact-us.md
-      - Terms of use: about/terms.md
       - Cookie policy: about/cookie-policy.md

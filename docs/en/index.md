@@ -13,15 +13,7 @@ The TOC appear to rest on shaky foundations...
 
 <div class="grid cards" markdown>
 
-- ## Introduction
-    - [Introduction](introduction/intro.md)
-    - [Target audience](introduction/audience.md)
-
-- ## How to
-    - [Contribute to this handbook](how_to_guides/contribute.md)
-    - [Access Jupyter notebooks at EOSC EU node](how_to_guides/EOSC_Jupyter.md)
-
-- ## Work with data in research
+- ## Digital research workflows
     - [From plan to publish](methodologies/research-data-lifecycle.md)
     - [Methods for openness and transparency](methodologies/openness.md)
     - [Confidential data - good practices](methodologies/confidential-data.md)
@@ -30,6 +22,10 @@ The TOC appear to rest on shaky foundations...
     - [Data-sharing in large projects](methodologies/large-projects.md)
     - [Data-driven research methodologies](methodologies/data-science.md)
     - [Automated Workflows](methodologies/workflows.md)
+
+- ## How to
+    - [Contribute to this workspace](how_to_guides/contribute.md)
+    - [Access Jupyter notebooks at EOSC EU node](how_to_guides/EOSC_Jupyter.md)
 
 - ## Knowledge base
     - [KTH support](knowledge_base/kth-support.md)
@@ -41,12 +37,15 @@ The TOC appear to rest on shaky foundations...
     - [Regulatory overview](knowledge_base/regulation.md)
     - [Funder mandates](knowledge_base/funder-mandates.md)
     - [Publisher requirements](knowledge_base/publisher-requirements.md)
+
 - ## About
+    - [Good research practice](introduction/intro.md)
+    - [Target audience](introduction/audience.md)
     - [Contact us](about/contact-us.md)
-    - [Terms of use](about/terms.md)
     - [Cookie policy](about/cookie-policy.md)
+
 </div>
 
 ---
 
-Couldn't find the answer to your question? Email [researchdata@kth.se](mailto:researchdata@kth.se).
+Couldn't find the answer to your question? Email [datahub-info@kth.se](mailto:datahub-info@kth.se).

@@ -8,18 +8,7 @@
 
 <div class="grid cards" markdown>
 
-- ## Introduktion
-
-    - [Introduktion](introduction/intro.md)
-    - [Målgrupp](introduction/audience.md)
-
-- ## Hur gör jag för att
-
-    - [Bidra till denna handbok](how_to_guides/contribute.md)
-    - [komma åt resurser inom EOSC](how_to_guides/EOSC_Jupyter.md)
-
-- ## Arbeta med data
-
+- ## Digitala arbetsflöden för forskning
     - [Från planering till publicering](methodologies/research-data-lifecycle.md)
     - [Metoder för öppenhet och transparens](methodologies/openness.md)
     - [Konfidentiella data -god praxis](methodologies/confidential-data.md)
@@ -29,8 +18,11 @@
     - [Datadriven metodik](methodologies/data-science.md)
     - [Automatiserade arbetsflöden](methodologies/workflows.md)
 
-- ## Kunskapsbas
+- ## Hur gör jag för att
+    - [Bidra till denna arbetsyta](how_to_guides/contribute.md)
+    - [komma åt resurser inom EOSC](how_to_guides/EOSC_Jupyter.md)
 
+- ## Kunskapsbas
     - [KTH-support](knowledge_base/kth-support.md)
     - [Communities](knowledge_base/communities.md)
     - [Hitta data](knowledge_base/finding-data.md)
@@ -42,14 +34,13 @@
     - [Krav från förlag vid publicering](knowledge_base/publisher-requirements.md)
 
 - ## Om
-
+    - [God forskningssed](introduction/intro.md)
+    - [Målgrupp](introduction/audience.md)
     - [Kontakta oss](about/contact-us.md)
-    - [Användarvillkor](about/terms.md)
     - [Cookiepolicy](about/cookie-policy.md)
-
 
 </div>
 
 ---
 
-Hittade du inte svaret på din fråga? Kontakta oss på [researchdata@kth.se](mailto:researchdata@kth.se).
+Hittade du inte svaret på din fråga? Kontakta oss på [datahub-info@kth.se](mailto:datahub-info@kth.se).

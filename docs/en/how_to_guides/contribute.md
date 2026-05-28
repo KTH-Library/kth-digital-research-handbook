@@ -1,3 +1,3 @@
-## How to contribute to this handbook
+## How to contribute to this workspace
 
 Coming soon
