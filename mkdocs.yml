@@ -96,6 +96,7 @@ plugins:
                 - Komma åt Jupyter vid EOSC EU-noden: how_to_guides/EOSC_Jupyter.md
                 - Bidra till denna arbetsyta: how_to_guides/contribute.md
             - Jag vill:
+                - Utföra intervjustudier: methodologies/interview-practices.md
                 - Arbeta med data från planering till publicering: methodologies/research-data-lifecycle.md
                 - Arbeta med öppenhet och transparens: methodologies/openness.md
                 - Arbeta med Konfidentiella data: methodologies/confidential-data.md

@@ -75,6 +75,7 @@ so please pick and choose the items that are helpful to you.
   performing interviews in the research setting.
 + **Check settings and test tools** - See
 [//]: # (TO-DO this link goes to a Confluence page, it too needs to be added to the Workspace)
+[//]: # (https://confluence.sys.kth.se/confluence/spaces/FOR/pages/299896981/How+to+record+and+transcribe+interviews)
   the practical guides on how to record interviews.
 
 ### Perform interviews
@@ -88,7 +89,8 @@ so please pick and choose the items that are helpful to you.
 ### Transcribe and prepare data
 
 + **Run transcription** - See
-[//]: # (TO-DO we need to link here)
+[//]: # (TO-DO same link as above, to Confluence page, its content should be added to Workspace)
+[//]: # (https://confluence.sys.kth.se/confluence/spaces/FOR/pages/299896981/How+to+record+and+transcribe+interviews)
   the practical guides for how to do it.
 + **Prepare transcripts for use**.
 + **Save code key in a safe place separate from the transcripts and media files**.
@@ -167,8 +169,7 @@ of the information:
   Transcribing using **automatic real-time captions** is therefore **not recommended** for
   privacy-sensitive interviews.
 + Process the transcripts in order to remove personal identifiers - see
-[//]: # (TO-DO there is a missing link here)
-  more on methods in the national guidance on processing qualitative data.
+  more on methods in the [national guidance on processing qualitative data](https://researchdata.se/en/manage-data/data-containing-personal-information/handbook-data-containing-personal-information/methods/methods-for-qualitative-data).
 + Use a data repository that fulfils archival requirements and that maintains
   long-term (at least ten years) storage of recordings and transcripts.
   Keep recordings and code-keys in a separate storage system/folder/record with
@@ -183,6 +184,7 @@ for recording and transcribing interviews, comprising different digital services
 software installed on your own device.
 As we have seen, different tools & approaches have different pros and cons.
 
-[//]: # (TO-DO there is a missing link here!)
+[//]: # (TO-DO same link as above, to Confluence page, its content should be added to Workspace)
+[//]: # (https://confluence.sys.kth.se/confluence/spaces/FOR/pages/299896981/How+to+record+and+transcribe+interviews)
 For practical how-to guides on how you can perform such a workflow - look at the
 how-to guides for using KTH digital tools for recording and transcribing.
