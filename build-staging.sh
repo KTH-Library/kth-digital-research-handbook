@@ -59,10 +59,10 @@ starttime=$(date +%s)
 
 # fetch secrets from passwordstore
 # (or if you want to use this script on your own computer, simply replace the contents of these variables)
-docker_host=$(pass hosts/kthb-dr-guide/docker/host)
-docker_name=$(pass hosts/kthb-dr-guide/docker/name)
-docker_path=$(pass hosts/kthb-dr-guide/docker/path)
-docker_pwd=$(pass hosts/kthb-dr-guide/docker/pwd)
+docker_host=$(pass hosts/datahub-workspace-cbhcloud/docker/host)
+docker_name=$(pass hosts/datahub-workspace-cbhcloud/docker/name)
+docker_path=$(pass hosts/datahub-workspace-cbhcloud/docker/path)
+docker_pwd=$(pass hosts/datahub-workspace-cbhcloud/docker/pwd)
 
 # Rebuild the site HTML/CSS in the local directory site
 msg "=== mkdocs build ..."

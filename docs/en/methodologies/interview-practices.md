@@ -21,7 +21,7 @@ By considering how personal information will be processed in your research
 already at the planning step, you can both make your own work
 easier and improve communication with different stakeholders.
 
-![Action points to consider in different stages of your research study](/assets/images/plan-interview-study.png)
+![Action points to consider in different stages of your research study](../../assets/images/plan-interview-study-transparent.png)
 
 
 ## Step-by-step checklist with considerations from planning to publishing
@@ -34,7 +34,7 @@ so please pick and choose the items that are helpful to you.
 + **Assess how sensitive the information you want to collect is** - Do you plan
   to collect information that may cause harm for individuals
   participating in the research study?
-  [//]: # (TO-DO the following sentence could use some clarification)
+[//]: # (TO-DO the following sentence could use some clarification)
   Assess what type of risk that may occur and make sure everyone involved are aware of risks.
 + **Determine any formal ethical procedures** - If your research involves special
   categories of personal information or information about individual criminal records
@@ -47,7 +47,7 @@ so please pick and choose the items that are helpful to you.
   institutional ethics committee, contact the [KTH Ethics committee](https://www.kth.se/en/om/organisation/2.32498/etikutskottet-1.1104520).
 + **Plan for how and when to obtain informed consent** - Do you want to obtain
   informed consent in written form or simply record it at the beginning of the interview?
-  [//]: # (TO-DO could we link to those templates?)
+[//]: # (TO-DO could we link to those templates?)
   There are templates for informed consent.
 + **Adjust study design to minimize collected personal information** - Consider if
   you can phrase interview guides or interview questions to encourage answers that
@@ -59,10 +59,10 @@ so please pick and choose the items that are helpful to you.
 ### Select tools for recording, transcribing and processing
 
 + **Collect information on available tools** - See the
-  [//]: # (TO-DO we need to link here)
+[//]: # (TO-DO we need to link here)
   how-to guide on the subpage for KTH IT provided tools.
 + **Make a risk assessment for available tools** - See the
-  [//]: # (TO-DO we need to link here)
+[//]: # (TO-DO we need to link here)
   how to guide on the subpage for description of risks for KTH IT provided tools.
 + **Prepare a statement on all processing of personal data** - This is a list of the tools you are using.
 
@@ -74,7 +74,7 @@ so please pick and choose the items that are helpful to you.
 + **Train co-investigators** - This step is relevant if you are more than one person
   performing interviews in the research setting.
 + **Check settings and test tools** - See
-  [//]: # (TO-DO this link goes to a Confluence page, it too needs to be added to the Workspace)
+[//]: # (TO-DO this link goes to a Confluence page, it too needs to be added to the Workspace)
   the practical guides on how to record interviews.
 
 ### Perform interviews
@@ -88,7 +88,7 @@ so please pick and choose the items that are helpful to you.
 ### Transcribe and prepare data
 
 + **Run transcription** - See
-  [//]: # (TO-DO we need to link here)
+[//]: # (TO-DO we need to link here)
   the practical guides for how to do it.
 + **Prepare transcripts for use**.
 + **Save code key in a safe place separate from the transcripts and media files**.
@@ -96,7 +96,7 @@ so please pick and choose the items that are helpful to you.
 ### Analyze
 
 + **Use your chosen methods for data analysis** - At present there
-  [//]: # (TO-DO the following sentence could use some clarification)
+[//]: # (TO-DO the following sentence could use some clarification)
   is no KTH-wide procured service like Nvivo, Atlas.ti or Transana but you can contact your
   school's IT-coordinator for information about licenses.
 + **Make sure all data processing at the analysis stage is described in the information you gave participants**.
@@ -152,7 +152,7 @@ to a *vulnerable group*, i.e., children or political refugees.
 
 A key point here is that if the risk of causing harm to individuals is high if data ends up
 in the wrong hands, you need to take extra security measures to protect the confidentiality
-of the information.
+of the information:
 
 + Record interviews using either a KTH-procured online recording service or
   a separate offline recording device.
@@ -167,7 +167,7 @@ of the information.
   Transcribing using **automatic real-time captions** is therefore **not recommended** for
   privacy-sensitive interviews.
 + Process the transcripts in order to remove personal identifiers - see
-  [//]: # (TO-DO there is a missing link here)
+[//]: # (TO-DO there is a missing link here)
   more on methods in the national guidance on processing qualitative data.
 + Use a data repository that fulfils archival requirements and that maintains
   long-term (at least ten years) storage of recordings and transcripts.
