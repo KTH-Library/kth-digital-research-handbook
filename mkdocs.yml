@@ -95,9 +95,6 @@ plugins:
             - Hur gör jag för att:
                 - Komma åt Jupyter vid EOSC EU-noden: how_to_guides/EOSC_Jupyter.md
                 - Bidra till denna arbetsyta: how_to_guides/contribute.md
-            - Introduktion:
-                - Introduktion: introduction/intro.md
-                - Målgrupp: introduction/audience.md
             - Jag vill:
                 - Arbeta med data från planering till publicering: methodologies/research-data-lifecycle.md
                 - Arbeta med öppenhet och transparens: methodologies/openness.md
@@ -118,6 +115,8 @@ plugins:
                 - Krav från finansiärer: knowledge_base/funder-mandates.md
                 - Krav från förlag: knowledge_base/publisher-requirements.md
             - Om:
+                - God forskningssed: introduction/intro.md
+                - Målgrupp: introduction/audience.md
                 - Kontakta oss: about/contact-us.md
                 - Cookiepolicy: about/cookie-policy.md
 
@@ -128,10 +127,8 @@ nav:
   - How to:
       - Access Jupyter notebook at EOSC EU node: how_to_guides/EOSC_Jupyter.md
       - Contribute to this workspace: how_to_guides/contribute.md
-  - Introduction:
-      - Introduction: introduction/intro.md
-      - Target audience: introduction/audience.md
   - I want to:
+      - Conduct interview studies: methodologies/interview-practices.md
       - Manage data from plan to publish: methodologies/research-data-lifecycle.md
       - Work with openness and transparency: methodologies/openness.md
       - Work with confidential data: methodologies/confidential-data.md
@@ -151,5 +148,7 @@ nav:
       - Funder mandates: knowledge_base/funder-mandates.md
       - Publisher requirements: knowledge_base/publisher-requirements.md
   - About:
+      - Good research practice: introduction/intro.md
+      - Target audience: introduction/audience.md
       - Contact us: about/contact-us.md
       - Cookie policy: about/cookie-policy.md

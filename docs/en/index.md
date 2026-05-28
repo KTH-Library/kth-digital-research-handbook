@@ -14,6 +14,7 @@ The TOC appear to rest on shaky foundations...
 <div class="grid cards" markdown>
 
 - ## Digital research workflows
+    - [Conducting interview studies](methodologies/interview-practices.md)
     - [From plan to publish](methodologies/research-data-lifecycle.md)
     - [Methods for openness and transparency](methodologies/openness.md)
     - [Confidential data - good practices](methodologies/confidential-data.md)

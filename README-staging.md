@@ -1,64 +1,54 @@
 # The staging version of this site
 
-We have the following `Dockerfile` defined:
-```
-FROM nginx:alpine
-RUN rm /etc/nginx/conf.d/default.conf
-COPY ./nginx.conf /etc/nginx/conf.d/default.conf
-COPY ./.htpasswd /etc/nginx/.htpasswd
-COPY ./site /usr/share/nginx/html
-EXPOSE 80
-```
+Is hosted on cbhcloud (kthcloud) by packaging the built site files as a Docker
+container and pushing it to cbhcloud (tahaa@kth.se).
 
-And in the working directory we have a `.htpasswd` file and `nginx.conf`, here's the latter:
-```
-server {
-   listen 80;
-   server_name drguide.kth.chepec.se;
-   location / {
-      root /usr/share/nginx/html;
-      index index.html;
-      try_files $uri $uri/ =404;
-      auth_basic "Restricted, please authenticate";
-      auth_basic_user_file /etc/nginx/.htpasswd;
-   }
-}
-```
+The Docker container includes a bare-bones NGINX server configured with
+basic authentication (username/password shared among the research data team).
+
+I have configured a CNAME record `workspace.datahub.kth.chepec.se` in the cbhcloud
+web admin interface.
+
+To publish the staging site run the `build-staging.sh` script.
+
+
+## Links and notes
+
+### Setting the .htpasswd file
 
 The `.htpasswd` file contains just a single username/password, which I created interactively:
 ```
 htpasswd -c .htpasswd kthb
 ```
-This basic auth by a shared username/password is meant as a fallback in case the KTHCloud Private Auth proxy
-cannot be tweaked to allow either any authenticated user or a preset list of KTH accounts
-(I have sent in a question regarding this to the developers).
+
+This basic auth by a shared username/password is good enough for now.
+
+In the near future, we may use kthcloud's Private Auth proxy instead.
+Their Auth Proxy is built on Keycloak, and the developers have indicated to me
+that it could be tweaked to allow either *any* authenticated user or a predefined
+list of KTH accounts.
 
 
-## To publish the staging site
+### Which Markdown generator is MkDocs using?
 
-Rebuild the site HTML/CSS in the local directory `site/`:
-```
-$ uv run mkdocs build -d site
-```
-
-Rebuild the Docker image and deploy it in one step (after authenticating, secrets redacted):
-```
-$ docker login ******* -u robot******* -p *******
-$ docker buildx build --platform="linux/amd64" -t ******* --push .
-```
+> The application uses the **Python-Markdown** Markdown processor.
+> You can enable additional extensions.
+> https://www.markdownguide.org/tools/mkdocs
 
 
+#### Python-Markdown
 
++ https://python-markdown.github.io
 
-## Background
+> [Python-Markdown] is not a CommonMark implementation; nor is it trying to be!
+> Python-Markdown was developed long before the CommonMark specification was
+> released and has always (mostly) followed the syntax rules and behavior of
+> the original reference implementation. No accommodations have been made to
+> address the changes which CommonMark has suggested. It is recommended that
+> you look elsewhere if you want an implementation which follows the CommonMark specification.
 
-It would be nice to have a staging area for KTH-DR User Guide.
++ https://python-markdown.github.io/extensions - list of official extensions.
+  Although I am not yet sure how to enable an extension for use with MkDocs.
 
-A staging version of the site would allow a much faster workflow than copy-pasting final drafts into Confluence (along with building up the tree structure there).
-
-The problem is where to host the generated static files...
-
-- KTH Cloud only offers Docker deployments, which is not my forte. But I confirmed DNS redirection works! For some reason VM creation is grayed out (maybe temporary? there is no way except Discord to contact the team).
-- EOSC Cloud is such a mess - I could not even figure out the public IPv4 address of the VM. The official docs talk about creating a Router, but their description does not match the web GUI. Very frustrating.
-- I installed Apache on the VHS workstation (the machine is courtesy of Anders Wändahl) to test if it could act as webserver from my KTH laptop (connected to eduroam), but unfortunately it seems eduroam does not allow traffic on port 80 to the KTH wired LAN.
-- I considered creating a container on my own NAS, but I abstained because there are no good answers to the question of authentication: basic Apache auth is simple to setup, but requires the team to learn another username and password; perhaps a firewall rule that only allows KTH:s subnet?
+In any case, I cannot find any mention that it supports **caption** or **cross-reference**.
+Too bad.
