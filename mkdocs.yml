@@ -92,9 +92,6 @@ plugins:
           # https://ultrabug.github.io/mkdocs-static-i18n/setup/localizing-navigation/
           nav:
             - Hem: sv/index.md
-            - Hur gör jag för att:
-                - Komma åt Jupyter vid EOSC EU-noden: how_to_guides/EOSC_Jupyter.md
-                - Bidra till denna arbetsyta: how_to_guides/contribute.md
             - Jag vill:
                 - Utföra intervjustudier: methodologies/interview-practices.md
                 - Arbeta med data från planering till publicering: methodologies/research-data-lifecycle.md
@@ -105,6 +102,9 @@ plugins:
                 - Arbeta i stora projekt: methodologies/large-projects.md
                 - Arbeta med data-drivna metoder: methodologies/data-science.md
                 - Använda automatiserade arbetsflöden: methodologies/workflows.md
+            - Hur gör jag för att:
+                - Komma åt Jupyter vid EOSC EU-noden: how_to_guides/EOSC_Jupyter.md
+                - Bidra till denna arbetsyta: how_to_guides/contribute.md
             - Kunskapsbas:
                 - KTH-stöd: knowledge_base/kth-support.md
                 - Communities: knowledge_base/communities.md
@@ -125,9 +125,6 @@ nav:
   # When updating the nav, remember to update the Swedish nav (above) as well
   # The top-level items are shown in the site header (this is *not* the table of contents)
   - Home: index.md
-  - How to:
-      - Access Jupyter notebook at EOSC EU node: how_to_guides/EOSC_Jupyter.md
-      - Contribute to this workspace: how_to_guides/contribute.md
   - I want to:
       - Conduct interview studies: methodologies/interview-practices.md
       - Manage data from plan to publish: methodologies/research-data-lifecycle.md
@@ -138,6 +135,9 @@ nav:
       - Work in large projects: methodologies/large-projects.md
       - Do data-driven science: methodologies/data-science.md
       - Use automated workflows: methodologies/workflows.md
+  - How to:
+      - Access Jupyter notebook at EOSC EU node: how_to_guides/EOSC_Jupyter.md
+      - Contribute to this workspace: how_to_guides/contribute.md
   - Knowledge base:
       - KTH support: knowledge_base/kth-support.md
       - Communities: knowledge_base/communities.md
