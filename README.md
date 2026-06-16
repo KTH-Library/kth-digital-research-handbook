@@ -1,8 +1,17 @@
-This repo is a Github Pages project that redirects traffic
-from itself to <https://kth-library.github.io/kth-datahub-workspace>.
+This repository redirects traffic
+from its Github Pages website at
+<https://kth-library.github.io/kth-digital-research-handbook>
+to <https://kth-library.github.io/kth-datahub-workspace>.
+
+It also takes care to redirect the Swedish language landing
+page at `/sv` (since some users may have bookmarks
+or similar that point directly to it).
+
+These redirects were put in place because we changed the repository's
+name from `kth-digital-research-handbook` to `kth-datahub-workspace`.
 
 
-## Setting up a minimal Github Pages website
+## Notes on setting up a minimal Github Pages website
 
 Create `index.html` in the repo root that contains a meta redirect.
 Configure the Github repo to deploy from the main branch.
